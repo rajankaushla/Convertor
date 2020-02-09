@@ -23,6 +23,5 @@ RSpec.describe Numeric, "#roman_numeral" do
     it "1000.roman_numeral returns M" do
       expect(1000.roman_numeral).to eq "M"
     end
-    
   end
 end
