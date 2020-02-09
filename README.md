@@ -13,7 +13,7 @@ Permissible values fall within the range of 1 - 1,000
 * Enter the Number 
 * Testing using RSpec
 
-> Tools and Framewok
+> Tools and Framework
 
 * Framework: Rails (6.0.2.1)
 * Language:  Ruby  (2.6.5)
