@@ -1,8 +1,8 @@
-
-# Programme that convert Netural Number into Roman Number
+# Netural Number into Roman Number Converiosn
+# Dynamic Method In Fixnum class 
 class Fixnum  
   def roman_numeral
-    return "The Romans have no zeros just heros. http://mathworld.wolfram.com/RomanNumerals.html " if self == 0
+    return "The Romans have no zeros just heros. http://mathworld.wolfram.com/RomanNumerals.html" if self == 0
     symbols = {
               1000 => "M", 
               500 => "D",

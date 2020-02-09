@@ -1,7 +1,7 @@
 require_relative "../roman_numerals.rb"
 
 RSpec.describe Numeric, "#roman_numeral" do
-  context "#convert number into roman numeral" do
+  context "convert number into roman numeral" do
     it "1.roman_numeral returns I" do
       expect(1.roman_numeral).to eq "I"
     end
