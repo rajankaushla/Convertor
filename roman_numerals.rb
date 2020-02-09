@@ -1,4 +1,4 @@
-# Netural Number into Roman Number Converiosn
+# Natural Number to Roman Number Converiosn
 # Dynamic Method In Fixnum class 
 class Fixnum  
   def roman_numeral
