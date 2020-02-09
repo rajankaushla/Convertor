@@ -1,6 +1,6 @@
 # Natural Number To Roman Number Conversion
 
-This Documment explains the complete steps to the run the code.
+This explains the complete steps to the run the code.
 
 Permissible values fall within the range of 1 - 1,000
 
