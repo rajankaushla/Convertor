@@ -1,6 +1,6 @@
 # Natural Number To Roman Number Conversion
 
-This explains the complete steps to the run the code.
+This explains the complete process to the run the code.
 
 Permissible values fall within the range of 1 - 1,000
 
@@ -11,7 +11,7 @@ Permissible values fall within the range of 1 - 1,000
 * Install Ruby on Rails
 * Clone or Download using https://github.com/rajankaushla/Convertor-.git
 * Enter the Number 
-* Testing using RSpec
+* Run RSpec
 
 > Tools and Framework
 
